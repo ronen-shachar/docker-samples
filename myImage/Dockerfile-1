@@ -1,0 +1,3 @@
+FROM docker/whalesay:latest
+
+CMD cowsay "Hello world"
